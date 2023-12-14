@@ -1,0 +1,23 @@
+[
+  {
+    "imgURL": "./img/Avatar1.png",
+    "name": "John Doe",
+    "position": "Software Engineer",
+    "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra.",
+    "rating": 5
+  },
+  {
+    "imgURL": "./img/Avatar2.png",
+    "name": "Jane Smith",
+    "position": "Product Manager",
+    "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra.",
+    "rating": 4.5
+  },
+  {
+    "imgURL": "./img/Avatar3.png",
+    "name": "Mike Johnson",
+    "position": "Sales Representative",
+    "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra.",
+    "rating": 3.5
+  }
+]

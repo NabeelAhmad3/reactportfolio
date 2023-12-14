@@ -1,0 +1,22 @@
+[
+  {
+    "imageUrl": "./img/e1.png",
+    "name": "Steategy & Direction",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+  },
+  {
+    "imageUrl": "./img/e2.png",
+    "name": "Branding & Logo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+  },
+  {
+    "imageUrl": "./img/e3.png",
+    "name": "UI & UX Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+  },
+  {
+    "imageUrl": "./img/e4.png",
+    "name": "Webflow Development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+  }
+]
