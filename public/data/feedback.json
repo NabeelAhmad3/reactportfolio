@@ -3,21 +3,21 @@
     "imgURL": "./img/Avatar1.png",
     "name": "John Doe",
     "position": "Software Engineer",
-    "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra.",
-    "rating": 5
+    "feedback":
+    "Nabeel Ahmad is an absolute wizard in web development! He tailored a website for me, understanding the unique needs of a software engineer. Nabeel's technical prowess and creativity shine through in the sleek and functional site he delivered. Responsive, collaborative, and detail-oriented—Nabeel is the go-to for any software engineer looking to showcase their skills online. Highly recommended! "
   },
   {
     "imgURL": "./img/Avatar2.png",
     "name": "Jane Smith",
     "position": "Product Manager",
-    "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra.",
+    "feedback":"Nabeel Ahmad is a web development maestro! He tailored a website for me, catering to the unique needs of a product manager. Nabeel's insight into user experience and functionality is truly commendable. The website he created is not just visually appealing but a seamless tool for effective product management. Working with Nabeel was a pleasure; his professionalism and attention to detail make him a standout choice for any product manager seeking an impactful online presence.",
     "rating": 4.5
   },
   {
     "imgURL": "./img/Avatar3.png",
     "name": "Mike Johnson",
     "position": "Sales Representative",
-    "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra.",
-    "rating": 3.5
+    "feedback":"Nabeel Ahmad is a game-changer for sales representatives! He crafted a website for me that's not just a digital presence but a powerful sales tool. Nabeel's expertise in web development translated into a sleek, user-friendly platform that perfectly aligns with the needs of a sales professional. Responsive, creative, and results-driven—Nabeel is my go-to for anything web-related. Highly recommended!",
+    "rating": 4.0
   }
 ]

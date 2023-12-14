@@ -48,7 +48,7 @@ const Footer = () => {
       <hr className="bg-black h-[2px] my-16"/>
 
       <div className="flex flex-col md:flex-row justify-between gap-2 items-center">
-        <p className="text-sm">Developer: <Link target="_blank" href="https://github.com/mdiktushar/">Md. Imrul Kayes</Link></p>
+        <p className="text-sm">Developer: <Link target="_blank" href="https://github.com/reactportfolio/">Nabeel Ahmad</Link></p>
         <div className="flex gap-2">
             <Link target="_blank" className="text-sm" href="">Privacy Policy</Link>
             <Link target="_blank" className="text-sm" href="">Terms of Services</Link>

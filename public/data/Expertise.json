@@ -2,21 +2,19 @@
   {
     "imageUrl": "./img/e1.png",
     "name": "Steategy & Direction",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+    "description": "I lead strategic initiatives for organizational success. With a results-driven approach, I provide clear direction and adapt strategies for sustained growth. I bring a results-driven mindset to ensure organizations thrive in today's ever-evolving markets."
   },
-  {
+    {
     "imageUrl": "./img/e2.png",
     "name": "Branding & Logo",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+    "description":"I specialize in crafting impactful brand identities through creative logo design. My approach combines strategic thinking with visual storytelling to create memorable and distinctive brands. Whether building from scratch or refining existing identities, I bring a passion for design and a commitment to making brands stand out."
   },
   {
     "imageUrl": "./img/e3.png",
     "name": "UI & UX Design",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-  },
+    "description": "I specialize in creating user-friendly interfaces (UI) and seamless user experiences (UX). My designs blend aesthetics with functionality to deliver visually appealing and highly intuitive digital experiences. "},
   {
     "imageUrl": "./img/e4.png",
     "name": "Webflow Development",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-  }
+    "description": "I excel in Webflow development, bringing designs to life with a seamless and efficient approach. From concept to execution, I leverage the power of Webflow to create responsive and visually stunning websites. My expertise lies in translating creative visions into functional and user-friendly digital experiences, ensuring a smooth and captivating online presence."}
 ]
