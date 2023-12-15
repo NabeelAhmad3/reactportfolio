@@ -2,17 +2,14 @@
     {
       "imgUrl": "./img/project1.png",
       "name": "Ahus",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros."
-    },
+      "description": " Discover comfort and convenience with AHUS Home Rentals. Our platform offers a curated selection of quality rental properties. Effortless search, transparent listings, and dedicated support make finding your ideal home a breeze. Welcome to a new era of hassle-free living ." },
     {
       "imgUrl": "./img/project2.png",
       "name": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros."
-    },
+      "description": "App Dashboard is your go-to hub for a streamlined and intuitive experience. Seamlessly navigate through features, access real-time data, and wield powerful tools—all from one centralized location. Enjoy the simplicity of customization and the efficiency of seamless integration. " },
     {
       "imgUrl": "./img/project3.png",
-      "name": "Easy Rent",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros."
-    }
-  ]
+      "name": "Hotel Booking",
+      "description": "Discover the ease of planning your perfect getaway with Cerena Hotel Booking. Our platform offers a user-friendly interface for quick reservations at your favorite destinations. Whether it's a business trip or a leisure escape. Cerena Where every click brings you closer to the perfect stay. "}
+    ]
   

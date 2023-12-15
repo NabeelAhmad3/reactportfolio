@@ -29,10 +29,6 @@ const Portfolio = () => {
         <div>
           <h3 className="font-bold text-5xl">My Portfolio</h3>
         </div>
-        <button className="btn bg-[#E62872] text-white text-xs normal-case hover:bg-[#ad3f69]">
-          <img src="./img/Vector.png" width={`15px`} alt="" />
-          Visit My Dribbble
-        </button>
       </div>
 
       <div className="flex flex-col items-center lg:flex-row lg:justify-center gap-4">
