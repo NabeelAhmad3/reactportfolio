@@ -59,7 +59,7 @@ const Contact = () => {
         <div className="flex flex-col items-center gap-4">
           <div className="form-control">
             <label className="label justify-start">
-              <span className="label-text">Choos a topic</span>
+              <span className="label-text">Choose a topic</span>
             </label>
             <select name="topic" className="select select-bordered border-[#0a49a7] w-[300px] lg:w-[820px]">
               <option defaultValue>
